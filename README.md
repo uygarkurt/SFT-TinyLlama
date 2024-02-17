@@ -1,4 +1,4 @@
-# Instruct-Tune / SFT TinyLlama
+# Instruct-Tune TinyLlama
 
 <div align="center">
     <a href="">
