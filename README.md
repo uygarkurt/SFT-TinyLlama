@@ -1,4 +1,4 @@
-# DCGAN Implementation With PyTorch
+# Instruct-Tune / SFT TinyLlama
 
 <div align="center">
     <a href="">
