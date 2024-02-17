@@ -39,3 +39,13 @@ Below is an instruction that describes a task, paired with an input that provide
 ```
 
 There are lots of prompting formats. I explained detailly when to use which prompting format detailly in the video.
+
+## YouTube Tutorial
+<div align="center">
+    <a href="https://youtu.be/6XeTk8cZUsM">IInstruct-Tune TinyLlama to Create ChatGPT Like Chatbots | Custom Dataset, Huggingface, SFT</a>
+    <br>
+    <br>
+    <a href="https://youtu.be/6XeTk8cZUsM">
+        <img src="./assets/tn-1.png" height="85%" width="85%%"/>
+    </a>
+</div>
